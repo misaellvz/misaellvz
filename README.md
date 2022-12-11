@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @misaellvz
+- 👀 I’m interested in software development and languages.
+- 🌱 I’m currently learning backend with NODEJS.
+- 📫 How to reach me. misaellvz@gmail.com or  misael.valdez994@gmail.com.
+- 📫 You can also reach me at +595991653583.
