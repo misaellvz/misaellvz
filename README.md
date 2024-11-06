@@ -1,4 +1,5 @@
 <h1 align="center"><b>Hi , I'm Misael Valdez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center"><img height="120" src="https://buildwithangga.com/storage/assets/thumbnails/thumbnail%20kelas%20javascript%20buildwith%20angga.png"></div>
 <h3 align="center">A passionate Front-End developer from Paraguay</h3>
 About me🧑:
 <h4 align="left">I am passionate about web design, current technologies such as ReactJS, React Native, NextJS, CSS3, HTML5. I combine my design knowledge with web development technologies to create scalable applications backed by an easy and intuitive user experience..</h4>
@@ -12,7 +13,6 @@ About me🧑:
 - ⚡ What I like to do: **I like so much watching movies and series, gym and bicycle...and coding of course**
 
 Languages and tools:
-<code><img height="40" src="https://buildwithangga.com/storage/assets/thumbnails/thumbnail%20kelas%20javascript%20buildwith%20angga.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
