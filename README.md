@@ -13,7 +13,7 @@ About me🧑:
 - ⚡ What I like to do: **I like so much watching movies and series, gym and bicycle...and coding of course**
 
 
-<h3 align="left">Top technologies I use:</h3>
+<h3 align="center">Top technologies I use:</h3>
 <div align="center">
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -31,11 +31,11 @@ About me🧑:
 </div>
 
 <div align="center">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ujjwalbhatt09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwalbhatt09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ujjwal-bhatt-b256271a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-bhatt-b256271a3" height="30" width="40" /></a>
-<a href="https://instagram.com/_ujjwalbhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ujjwalbhatt" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ujjwalbhatt09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjwalbhatt09" height="30" width="40" /></a>
-</p>
+  <h3 align="center">Connect with me:</h3>
+  <p align="center">
+  <a href="https://twitter.com/ujjwalbhatt09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwalbhatt09" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ujjwal-bhatt-b256271a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-bhatt-b256271a3" height="30" width="40" /></a>
+  <a href="https://instagram.com/_ujjwalbhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ujjwalbhatt" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/ujjwalbhatt09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjwalbhatt09" height="30" width="40" /></a>
+  </p>
 </div>
