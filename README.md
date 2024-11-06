@@ -2,24 +2,10 @@
 
 <h3 align="center">A passionate Front-End developer from Paraguay</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 I’m currently working on my portfolio
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 I’m currently learning Python and Nodejs
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 📫 How to reach me: **misaellvz@gmail.com**
 
-- 📫 How to reach me: **brantlauro@gmail.com**
-
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ What I like to do: **I like so much watching movies and series, gym and bicycle...and coding of course**
