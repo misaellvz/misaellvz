@@ -36,6 +36,6 @@ About me🧑:
   <a href="https://banner2.cleanpng.com/20240119/sut/transparent-x-logo-logo-brand-identity-company-organization-black-background-white-x-logo-for-1710916376217.webp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="misaellvz" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/misaellvz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misaellvz" height="30" width="40" /></a>
   <a href="https://instagram.com/easyngles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ujjwalbhatt" height="30" width="40" /></a>
-  <a href="https://www.codewars.com/misaellvz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjwalbhatt09" height="30" width="40" /></a>
+  <a href="https://www.codewars.com/users/misaellvz" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwb-5SUDkqTQWSsJIWHVmw1fwCPMmU5Hlypw&s" alt="misaellvz" height="30" width="40" /></a>
   </p>
 </div>
