@@ -1,7 +1,16 @@
 <h1 align="center"><b>Hi , I'm Misael Valdez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**misaellvz/misaellvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate Front-End developer from Paraguay</h3>
+
+- 🔭 I’m currently working on my **Python Course**
+
+- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+
+- 👯 I’m looking to collaborate on **front-end and back-end projects**
+
+- 📫 How to reach me: **brantlauro@gmail.com**
+
+- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
 
 Here are some ideas to get you started:
 
